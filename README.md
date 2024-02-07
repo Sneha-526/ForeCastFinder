@@ -5,23 +5,14 @@
 </h1>
 <!-- Subtitle/Description -->
 <h4>Climate App is an application responsible for showing climate data for a given city in real time.</h4>
-<p>
-<!-- Image Shields -->
-<img  alt="Language Top"  src="https://img.shields.io/github/languages/top/joaovictornsv/climate-app">
-<img  alt="Languages Count"  src="https://img.shields.io/github/languages/count/joaovictornsv/climate-app">
-<img  alt="Last Commit"  src="https://img.shields.io/github/last-commit/joaovictornsv/climate-app">
-<img  alt="Repo Size"  src="https://img.shields.io/github/repo-size/joaovictornsv/climate-app">
-<a  href="https://github.com/joaovictornsv/climate-app/blob/master/LICENSE">
-<img  alt="License"  src="https://img.shields.io/github/license/joaovictornsv/climate-app.svg">
-</a>
-</p>
+
   
 <!-- Nav Menu -->
 <a  href=#telescope-tecnologias>Technologies</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#gift-contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a  href="#memo-licença">License</a><br/><br/>
-<img  width="100%"  src="./src/assets/images/readme/Screenshot (175).png">
+<img  width="100%"  src="./src/assets/images/readme/Screenshot (175).png"> <br><br>
 <img  width="100%"  src="./src/assets/images/readme/Screenshot (177).png">
 </div>
 
