@@ -21,8 +21,8 @@
 <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#gift-contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a  href="#memo-licença">License</a><br/><br/>
-<img  width="100%"  src="https://i.imgur.com/yFXccOq.png">
-<img  width="100%"  src="https://i.imgur.com/PgAnFdd.png">
+<img  width="100%"  src="./src/assets/images/readme/Screenshot (175).png">
+<img  width="100%"  src="./src/assets/images/readme/Screenshot (177).png">
 </div>
 
 ---
